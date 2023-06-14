@@ -23,7 +23,8 @@ Passo 2: Subsitiua o Path no código fonte:
  
 ``` pwd ```
 
-concatene com o nome do arquivo igual no exemplo
+Concatene com o nome do arquivo igual no exemplo
+
 Passo 3: Compile o programa:
 
 ```javac VestibularResults.java```

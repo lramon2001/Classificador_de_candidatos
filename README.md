@@ -13,10 +13,12 @@ Infelizmente, é um softwware um pouco complicado de usa, mas pretendo evouluir 
 
 Passo 1: Clone o repositório
 
-``` git clone ```
+``` git clone git@github.com:lramon2001/Classificador_de_candidatos.git```
+
 Passo 2: Subsitiua o Path no código fonte:
 
  ```Path path = Paths.get("/home/lramon2001/medicina.txt");```
+ 
  Para saber o caminho do diretório bastar fazer este comando:
  
 ``` pwd ```

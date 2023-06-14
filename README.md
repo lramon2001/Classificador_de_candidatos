@@ -22,6 +22,7 @@ Passo 2: Subsitiua o Path no código fonte:
  Para saber o caminho do diretório bastar fazer este comando:
  
 ``` pwd ```
+
 concatene com o nome do arquivo igual no exemplo
 Passo 3: Compile o programa:
 
